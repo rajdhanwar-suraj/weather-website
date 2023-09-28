@@ -183,7 +183,7 @@ body {
 @media (max-width: 440px) {
     .card {
         padding: 15px;
-        border: 2px solid red;
+/*         border: 2px solid red; */
     }
 
     .weather-icon {
